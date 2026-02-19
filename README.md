@@ -1,5 +1,5 @@
 # siamese_net_implementation
-Implementation of a Siamese Network for [your project/topic].
+Implementation of a Siamese Network for Facial Emotion Reconginition .
 
 📄 [Read my article](./article.pdf)  
 
